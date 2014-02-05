@@ -1,2 +1,2 @@
-Tra ta ta ta
-Tra la la Tra la la teraz ja
+#Tra ta ta ta
+#Tra la la Tra la la teraz ja
