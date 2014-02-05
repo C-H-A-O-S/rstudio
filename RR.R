@@ -2,3 +2,4 @@
 #Tra la la Tra la la teraz ja
 getwd()
 #Jak?
+#i co?
