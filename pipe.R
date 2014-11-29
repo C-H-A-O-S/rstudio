@@ -1,4 +1,4 @@
 library(magrittr)
 
-tmp <- 'a' %>% print
+tmp <- rnorm(1000) %>% hist
 tmp
