@@ -1,4 +1,8 @@
 library(magrittr)
+library(ggplot2)
 
-tmp <- rnorm(1000) %>% hist
-tmp
+#pdf("gg.pdf")
+
+qplot(geom_histogram(rnorm(1000)) + geom_density(rnorm(1999)))
+
+#dev.off()
