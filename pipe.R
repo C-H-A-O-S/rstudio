@@ -1,1 +1,4 @@
-print('a') %>%
+library(magrittr)
+
+tmp <- 'a' %>% print
+tmp
